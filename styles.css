@@ -11,3 +11,7 @@
     margin-top: 20px;
     width: 50%;
 }
+ nav{
+    position: fixed;
+    display: flex;
+} 
